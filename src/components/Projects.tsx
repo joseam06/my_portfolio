@@ -10,7 +10,7 @@ const projects = [
     description:
       "Plataforma para la gestión del sector ganadero. Permite administrar fincas, potreros y animales, además de centralizar información para apoyar la toma de decisiones.",
     tags: ["Laravel", "PHP", "Vue", "MySQL"],
-    image: "/images/projects/bovisoft-logo.png",
+    image: "/my_portfolio/images/projects/bovisoft-logo.png",
     github: "https://github.com/joseam06/Bovisoft",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     description:
       "Herramienta web orientada a la enseñanza de cultivos hidropónicos en entornos urbanos, facilitando el acceso a información técnica y los procesos de implementación.",
     tags: ["PHP", "JavaScript", "HTML", "CSS"],
-    image: "/images/projects/hidrocrops-logo1.png",
+    image: "/my_portfolio/images/projects/hidrocrops-logo1.png",
     github: "https://github.com/joseam06/Hidrocrops-Web",
   },
 ];

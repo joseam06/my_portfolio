@@ -84,7 +84,7 @@ export default function Card() {
         className="absolute left-1/2 top-1/2 z-10 flex h-28 w-28 max-[640px]:h-24 max-[640px]:w-24 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/10 bg-[#0c0c0c] shadow-2xl"
       >
         <img
-  src="/images/yo.jpg"
+  src="/my_portfolio/images/projects/yo.png"
   alt="José Avilés"
   className="h-full w-full rounded-full object-cover"
 />
