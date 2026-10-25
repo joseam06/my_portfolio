@@ -81,13 +81,13 @@ export default function Card() {
           repeat: Infinity,
           ease: "easeInOut",
         }}
-        className="absolute left-1/2 top-1/2 z-10 flex h-28 w-28 max-[640px]:h-24 max-[640px]:w-24 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/10 bg-[#0c0c0c] shadow-2xl"
+        className="absolute left-1/2 top-1/2 z-10 flex h-36 w-36 max-[640px]:h-32 max-[640px]:w-32 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/10 bg-[#0c0c0c] shadow-2xl overflow-hidden"
       >
         <img
-  src="/my_portfolio/images/projects/yo.png"
-  alt="José Avilés"
-  className="h-full w-full rounded-full object-cover"
-/>
+          src="/my_portfolio/images/projects/yo.png"
+          alt="José Avilés"
+          className="h-full w-full object-cover object-[center_10%]"
+        />
       </motion.div>
 
       {/* Tecnologías */}
