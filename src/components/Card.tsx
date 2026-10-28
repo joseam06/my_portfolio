@@ -84,7 +84,7 @@ export default function Card() {
         className="absolute left-1/2 top-1/2 z-10 flex h-36 w-36 max-[640px]:h-32 max-[640px]:w-32 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/10 bg-[#0c0c0c] shadow-2xl overflow-hidden"
       >
         <img
-          src="/my_portfolio/images/projects/yo.png"
+          src={`${process.env.NEXT_PUBLIC_BASE_PATH}/images/projects/yo.png`}
           alt="José Avilés"
           className="h-full w-full object-cover object-[center_10%]"
         />
